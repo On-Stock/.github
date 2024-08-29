@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+On Stock é o projeto de uma loja online definitiva para tudo relacionado a jogos. Projetado especialmente para a comunidade gamer, a aplicação oferece uma experiência de compra personalizada que vai além do simples comércio eletrônico. Seja você um entusiasta casual ou um jogador hardcore, On Stock tem tudo o que você precisa para aprimorar sua experiência de jogo
+
 <!--
 
 **Here are some ideas to get you started:**
